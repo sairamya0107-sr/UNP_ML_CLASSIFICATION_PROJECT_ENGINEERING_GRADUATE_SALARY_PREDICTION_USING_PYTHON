@@ -52,4 +52,4 @@ The project helped us understand how academic performance, aptitude scores, tech
 
 GOOGLE COLAB FILE LINK : https://drive.google.com/file/d/18cez4Eo0I2c9SuhfsGlMM7F6wn5aZp1m/view?usp=sharing
 
-PROJECT PRESENTATION FILE LINK : https://drive.google.com/file/d/18cez4Eo0I2c9SuhfsGlMM7F6wn5aZp1m/view?usp=sharing
+PROJECT PRESENTATION FILE LINK : https://docs.google.com/presentation/d/1BB8nzz8yA_5hk2_-Bqi8t2snLA5aJqQ0/edit?usp=sharing&ouid=104732682746738709604&rtpof=true&sd=true
